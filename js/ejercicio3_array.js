@@ -1,13 +1,8 @@
 let suma = [];
-
 let i;
 let contador = 1;
-
 let dado1 = Math.ceil(Math.random()*6);
 let dado2 = Math.ceil(Math.random()*6); 
-
-
-
 for (i = 0; i < 50; i++){
      dado1 = Math.ceil(Math.random()*6);
      dado2 = Math.ceil(Math.random()*6); 
